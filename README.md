@@ -3,6 +3,13 @@
 ## 🎯 Objetivos
 - Analisar o perfil dos clientes (adimplentes e inadimplentes)- Identificar padrões nas transações financeiras
 - Avaliar a relação entre limite de crédito e inadimplência- Gerar insights para tomada de decisão em concessão de crédito
+
+
+## 💻 Notebook
+
+[Análise de Crédito](https://github.com/alexassuncaodados/analise-credito/blob/main/Projeto%20An%C3%A1lise%20de%20Dados%20Python%20-%20an%C3%A1lise%20de%20cr%C3%A9dito.ipynb)
+
+
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.x- Pandas (manipulação e análise de dados)
 - Seaborn (visualização de dados)- Matplotlib (visualização de dados)
