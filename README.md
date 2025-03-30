@@ -33,4 +33,4 @@
 ## 👤 Autor Alex Silva de Assunção
 - [LinkedIn](https://www.linkedin.com/in/alexassuncaodata/)- [GitHub](https://github.com/alexassuncaodados)
 ## 📫 Contato
-- Email: [seu-email@email.com](mailto:alexassuncao.dados@email.com)
+- Email: [alexassuncao.dados@email.com](mailto:alexassuncao.dados@email.com)
